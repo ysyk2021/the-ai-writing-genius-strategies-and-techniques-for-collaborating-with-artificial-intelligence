@@ -1,5 +1,3 @@
-Ethical Considerations
-=================================================================================
 
 Collaborating with artificial intelligence (AI) in writing presents several ethical considerations that writers need to be aware of. In this chapter, we will discuss some of the challenges that writers may face when collaborating with AI in writing from an ethical perspective.
 

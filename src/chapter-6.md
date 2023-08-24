@@ -1,5 +1,3 @@
-Chapter 6: Implementing AI Writing Collaboration
-================================================
 
 In this chapter, we will discuss how to implement AI writing collaboration in your writing process. We will cover developing a strategy, overcoming resistance to change, and best practices for implementation.
 

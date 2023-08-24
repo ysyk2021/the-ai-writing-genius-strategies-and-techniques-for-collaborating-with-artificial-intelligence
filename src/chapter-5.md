@@ -1,5 +1,3 @@
-Chapter 5: Applications of AI in Writing Collaboration
-======================================================
 
 Artificial intelligence (AI) is revolutionizing the writing industry, offering many exciting applications for writing collaboration. In this chapter, we will discuss some of the most significant applications of AI in writing collaboration, including automated writing improvement tools, AI-powered editing and proofreading, and co-writing with AI.
 

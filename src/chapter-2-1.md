@@ -1,5 +1,3 @@
-Historical Overview of AI Writing
-======================================================================
 
 AI writing technology has come a long way since its inception. In this chapter, we will explore the historical development of AI writing technology and how it has evolved over time.
 

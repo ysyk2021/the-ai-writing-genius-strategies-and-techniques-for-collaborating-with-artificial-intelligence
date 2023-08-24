@@ -1,5 +1,3 @@
-Addressing Potential Bias
-=======================================================================
 
 As with any technology, AI writing collaboration has the potential to introduce bias into the writing process. In this chapter, we will discuss strategies for addressing potential bias when working with AI in writing.
 

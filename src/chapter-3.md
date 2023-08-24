@@ -1,5 +1,3 @@
-Chapter 3: Benefits of Collaborating with AI in Writing
-=======================================================
 
 Collaborating with artificial intelligence (AI) in writing offers many benefits for writers, including enhanced creativity, increased productivity, and improved quality of writing. In this chapter, we will discuss these benefits in more detail.
 

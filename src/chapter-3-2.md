@@ -1,5 +1,3 @@
-Increased Productivity
-===============================================================================
 
 Collaborating with artificial intelligence (AI) in writing can offer many benefits for writers, including increased productivity. In this chapter, we will discuss how AI can help writers save time, streamline their workflow, and increase their overall productivity.
 

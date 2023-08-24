@@ -1,5 +1,3 @@
-Chapter 7: Managing AI Writing Collaboration
-============================================
 
 Managing AI writing collaboration requires careful consideration of data management, transparency and accountability, and potential bias. In this chapter, we will explore these critical aspects of managing AI writing collaboration.
 

@@ -1,5 +1,3 @@
-Chapter 2: Understanding AI Writing
-===================================
 
 In this chapter, we will explore the basics of AI writing, including its historical development, types, and how it works.
 

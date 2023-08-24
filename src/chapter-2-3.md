@@ -1,5 +1,3 @@
-How AI Writing Works
-=========================================================
 
 Artificial intelligence (AI) writing involves the use of algorithms and computer programs to generate written content. In this chapter, we will discuss how AI writing works and the technologies that enable it.
 

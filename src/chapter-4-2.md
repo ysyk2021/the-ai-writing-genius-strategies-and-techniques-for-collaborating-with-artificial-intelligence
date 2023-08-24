@@ -1,5 +1,3 @@
-Legal Considerations
-===============================================================================
 
 Collaborating with artificial intelligence (AI) in writing presents several legal considerations that writers need to be aware of. In this chapter, we will discuss some of the challenges that writers may face when collaborating with AI in writing from a legal perspective.
 

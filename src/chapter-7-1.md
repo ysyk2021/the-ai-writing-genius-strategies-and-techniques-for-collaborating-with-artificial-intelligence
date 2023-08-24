@@ -1,5 +1,3 @@
-Data Management
-=============================================================
 
 AI writing collaboration relies heavily on data, making effective data management a crucial component of success. In this chapter, we will discuss strategies for managing data when working with AI in writing.
 

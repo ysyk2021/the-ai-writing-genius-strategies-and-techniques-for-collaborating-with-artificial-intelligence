@@ -1,5 +1,3 @@
-Why Collaborating with AI in Writing is Important
-==========================================================================
 
 Artificial intelligence (AI) is transforming many industries, and writing is no exception. In this chapter, we will discuss why collaborating with AI in writing is important and the benefits it can offer.
 

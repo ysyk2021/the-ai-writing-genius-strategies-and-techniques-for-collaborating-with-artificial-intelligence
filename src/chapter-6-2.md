@@ -1,5 +1,3 @@
-Overcoming Resistance to Change
-=================================================================================
 
 Introducing new technologies like AI can be met with resistance from some team members. In this chapter, we will discuss strategies for overcoming resistance to change when implementing AI writing collaboration.
 
@@ -27,5 +25,4 @@ Conclusion
 ----------
 
 Overcoming resistance to change is a critical component of successfully implementing AI writing collaboration. By communicating the benefits, involving team members in the decision-making process, providing training and support, and addressing concerns and misconceptions, you can help ensure a smooth transition and achieve better writing outcomes.
-
 
