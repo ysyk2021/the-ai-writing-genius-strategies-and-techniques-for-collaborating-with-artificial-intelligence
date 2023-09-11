@@ -1,5 +1,4 @@
-Chapter 3: How AI Writing Works
-===============================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Understanding the mechanics of AI writing is essential to harness its potential effectively. In this chapter, we will delve into the inner workings of AI writing, exploring the algorithms and processes that enable artificial intelligence to assist and collaborate with writers.
 

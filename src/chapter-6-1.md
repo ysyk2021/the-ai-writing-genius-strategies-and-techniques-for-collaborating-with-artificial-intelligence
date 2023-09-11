@@ -1,5 +1,4 @@
-Chapter 4: Developing an AI Writing Collaboration Strategy
-==========================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Creating a successful partnership between yourself and artificial intelligence (AI) in the writing process requires careful planning and strategy. In this chapter, we will explore how to develop an effective AI writing collaboration strategy that maximizes your writing outcomes while harnessing the power of AI.
 

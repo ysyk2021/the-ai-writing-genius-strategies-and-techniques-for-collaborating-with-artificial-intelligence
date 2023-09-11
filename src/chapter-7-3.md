@@ -1,5 +1,4 @@
-Chapter 8: Addressing Potential Bias
-====================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Addressing potential bias is a critical aspect of AI-assisted writing. Bias can inadvertently creep into AI-generated content, leading to unfair, inaccurate, or offensive results. In this chapter, we will explore strategies and techniques to recognize, mitigate, and prevent bias in AI-assisted writing.
 

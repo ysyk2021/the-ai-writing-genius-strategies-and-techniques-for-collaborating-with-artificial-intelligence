@@ -1,5 +1,4 @@
-Chapter 5: Data Management
-==========================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Effective data management is the foundation for successful collaboration with AI in writing. In this chapter, we will delve into the critical aspects of data management, from sourcing and organizing data to maintaining data integrity and privacy.
 

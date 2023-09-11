@@ -1,5 +1,4 @@
-Chapter 2: Historical Overview of AI Writing
-============================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Artificial Intelligence (AI) writing has a rich history, dating back to the early days of computing. This chapter provides a historical overview of the evolution of AI writing, tracing its development from its inception to the sophisticated AI writing tools available today.
 

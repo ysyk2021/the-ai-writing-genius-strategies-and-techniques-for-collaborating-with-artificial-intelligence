@@ -1,5 +1,4 @@
-Chapter 5: Ethical Considerations
-=================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In the realm of AI-powered writing, the integration of artificial intelligence into the creative process raises several important ethical considerations. As we harness the power of AI to enhance our writing outcomes, we must be mindful of the potential implications and ethical dilemmas that may arise. This chapter explores some of the key ethical considerations associated with collaborating with AI in the writing process.
 

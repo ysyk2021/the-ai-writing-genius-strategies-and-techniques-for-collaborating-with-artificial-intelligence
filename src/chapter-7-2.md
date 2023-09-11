@@ -1,5 +1,4 @@
-Chapter 7: Ensuring Transparency and Accountability
-===================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In the realm of AI-assisted writing, ensuring transparency and accountability is paramount. Writers must take deliberate steps to maintain ethical standards, maintain transparency in their AI collaborations, and be accountable for the content they produce. In this chapter, we will explore strategies and techniques to achieve these essential goals.
 

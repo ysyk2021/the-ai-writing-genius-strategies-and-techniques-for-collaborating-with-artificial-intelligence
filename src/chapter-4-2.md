@@ -1,5 +1,4 @@
-Chapter 8: Legal Considerations
-===============================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In the dynamic landscape of AI-assisted writing, understanding the legal aspects is crucial to avoid potential pitfalls and ensure that your collaboration with artificial intelligence remains compliant with the law. This chapter explores the key legal considerations when using AI for writing and offers guidance on how to navigate these complex issues.
 

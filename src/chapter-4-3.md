@@ -1,5 +1,4 @@
-Chapter 6: Privacy and Security Concerns
-========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 As we delve into the realm of AI-powered writing, it's essential to address the critical issues of privacy and security. This chapter explores the various concerns that arise when collaborating with artificial intelligence and provides strategies to safeguard your data and content.
 

@@ -1,5 +1,4 @@
-Chapter 12: Enhanced Creativity
-===============================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Artificial intelligence has emerged as a powerful ally in the realm of creativity, offering writers a wide array of tools and techniques to spark inspiration and enhance their creative abilities. In this chapter, we will explore how AI can be harnessed to elevate creativity in the writing process.
 

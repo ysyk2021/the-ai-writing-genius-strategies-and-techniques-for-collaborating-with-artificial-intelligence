@@ -1,5 +1,4 @@
-Chapter 7: Best Practices for Implementation
-============================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Incorporating artificial intelligence into your writing process can be a powerful way to enhance your productivity and creativity. However, it's essential to follow best practices to maximize the benefits and ensure a seamless collaboration between you and AI. This chapter delves into the key best practices for implementing AI in your writing journey.
 

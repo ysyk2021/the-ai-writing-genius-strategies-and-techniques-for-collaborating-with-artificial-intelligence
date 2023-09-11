@@ -1,5 +1,4 @@
-Chapter 10: Improved Quality of Writing
-=======================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 The integration of artificial intelligence into the writing process has led to a remarkable improvement in the quality of written content. In this chapter, we will explore how AI-driven strategies and techniques can elevate the quality of writing to new heights.
 

@@ -1,5 +1,4 @@
-Chapter 13: Preparing for the Future
-====================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 The integration of artificial intelligence into the writing process has already transformed the landscape of content creation. In this chapter, we will explore the evolving role of AI in writing and discuss how writers can prepare for the future of this dynamic collaboration.
 

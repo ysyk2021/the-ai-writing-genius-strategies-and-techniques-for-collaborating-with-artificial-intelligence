@@ -1,5 +1,4 @@
-Chapter 6: AI-Powered Editing and Proofreading
-==============================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 AI-powered editing and proofreading tools have revolutionized the writing process, offering writers a powerful means to enhance the quality and clarity of their work. In this chapter, we'll explore how AI can be leveraged for editing and proofreading, providing strategies and techniques to improve the overall writing outcome.
 

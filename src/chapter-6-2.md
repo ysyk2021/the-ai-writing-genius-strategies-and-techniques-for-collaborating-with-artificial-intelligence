@@ -1,5 +1,4 @@
-Chapter 6: Overcoming Resistance to Change
-==========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will delve into the challenges associated with adopting AI in the writing process and explore strategies and techniques for overcoming resistance to change. Embracing AI as a writing collaborator can lead to better writing outcomes, but it often requires a shift in mindset and workflows.
 

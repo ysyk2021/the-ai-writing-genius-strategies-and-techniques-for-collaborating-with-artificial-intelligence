@@ -1,5 +1,4 @@
-Chapter 4: Types of AI Writing
-==============================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 AI writing encompasses a wide range of applications, each tailored to specific writing needs. In this chapter, we'll explore the various types of AI writing and how they can enhance different aspects of the writing process.
 

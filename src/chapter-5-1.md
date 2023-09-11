@@ -1,5 +1,4 @@
-Chapter 9: Automated Writing Improvement Tools
-==============================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Automated writing improvement tools have revolutionized the way writers craft and enhance their content. In this chapter, we will explore a range of tools and techniques that writers can leverage to elevate the quality of their writing with the assistance of artificial intelligence.
 
